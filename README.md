@@ -1,16 +1,16 @@
-# \# Práctica 1: Entorno de Desarrollo, Control de Versiones y Modelado de Datos
+# \#Práctica 1.- Modelado Entidad Relación
 
 # 
 
-# \*\*Instituto Politécnico Nacional\*\*  
+# Instituto Politécnico Nacional
 
-# \*\*Escuela Superior de Cómputo (ESCOM)\*\*  
+# Escuela Superior de Cómputo
 
-# \*\*Unidad de Aprendizaje:\*\* Bases de Datos  
+# Bases de Datos
 
-# \*\*Licenciatura:\*\* Ingeniería en Sistemas Computacionales (ISC)  
+# Ingeniería en Sistemas Computacionales (ISC)
 
-# \*\*Grupo:\*\* 3CV4  
+# \*\*Grupo:\*\* 3CV4
 
 # 
 
