@@ -10,7 +10,7 @@
 
 # Ingeniería en Sistemas Computacionales (ISC)
 
-# \*\*Grupo:\*\* 3CV4
+# Grupo:3CV4
 
 # 
 
@@ -22,9 +22,9 @@
 
 # 
 
-# \* \*\*Encarnación Lorenzana Bryan David\*\*
+# Encarnación Lorenzana Bryan David
 
-# \* \*\*Tovar Muñoz Sebastian\*\*
+# Tovar Muñoz Sebastian\*\*
 
 # 
 
@@ -36,7 +36,7 @@
 
 # 
 
-# El proyecto se encuentra organizado estrictamente en las siguientes carpetas y documentos oficiales:
+# El proyecto se encuentra organizado estrictamente en las siguientes carpetas:
 
 # 
 
